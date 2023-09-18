@@ -20,6 +20,7 @@ button {
     color: #FFEEDF;
     font-size: 200px;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
 
     display: flex;
     justify-content: center;
