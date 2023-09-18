@@ -29,4 +29,9 @@ button {
 
 span {
     height: 265px;
+    position: absolute;
+    top: -10px;
+    left: 50%;
+
+    transform: translate(-50%);
 }
